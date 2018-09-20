@@ -14,6 +14,7 @@ func main() {
 		"template/bad.slim",
 		"template/bad2.slim",
 		"template/bad3.slim",
+		"template/bad4.slim",
 	}
 	for _, v := range tmpls {
 		fmt.Printf("\n--- %s ---\n", v)
