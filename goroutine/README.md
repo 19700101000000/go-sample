@@ -1,5 +1,4 @@
 # goroutine sample
----
 
 ## build
 - go run main-1.go
